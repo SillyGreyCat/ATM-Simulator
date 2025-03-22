@@ -10,8 +10,6 @@ Set Up:
 
    {AccountNumber},{BranchCode},{HolderName},{CurrentBalance},{WithdrawalLimit},{Pin},
 
--> The format must strictly be followed by the data within the files in 'ATM Files' folder.
-
 -> A sample data file has been provided.
 
 
