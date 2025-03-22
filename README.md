@@ -23,26 +23,21 @@ Usage:
 -> Here is a list of valid operation codes that can be entered and their use:
 
      - help
-     
      (to display list of normal operations)
      
      - wth
-     
      (to withdraw amount)
-     - dep
      
+     - dep
      (to deposit amount)
      
      - chk
-     
      (to display account details)
      
      - showall
-     
      (to show all records in a particular file)
      
      - sysexit
-     
      (to exit/end program)
 
 -> The 'showall' operation will ask for a pin, which is assigned to the variable 'adminpass' (current pin = 25807)
